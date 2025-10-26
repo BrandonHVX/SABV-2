@@ -40,7 +40,7 @@ export default class AboutOne extends React.Component {
                                 <div className="about-one__right">
                                     <div className="about-one__right-content">
                                         <div className="section-title text-left">
-                                            <span className="section-title__tagline">About Us</span>
+                                            <span className="section-title__tagline">About me</span>
                                             <h2 className="section-title__title">We Can Save More Lifes With Your Helping Hand.</h2>
                                         </div>
                                         <p className="about-one__text">Lorem ipsum is simply free text dolor sit amet,
